@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "jjsquady/laravel-tenancy",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
